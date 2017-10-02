@@ -1,6 +1,6 @@
 $a = 4;
 $b = 5;
 
-function AddTwoNumbers(a,b){
+function add(a,b){
 return a + b;
 }
