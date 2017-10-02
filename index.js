@@ -15,3 +15,12 @@ return a * b;
 function divide(a,b){
 return a / b;
 }
+
+functioninc(n){
+
+  return n++;
+}
+
+function dec(n){
+  return n--;
+}
